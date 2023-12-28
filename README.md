@@ -2,7 +2,7 @@
 
 ### 👋 Hello, I'm Ammad Ali
 
-I'm a passionate front-end web developer with a knack for crafting seamless user experiences. Currently focused on HTML, CSS, and JavaScript, I love turning design concepts into responsive and visually appealing websites.
+I'm a passionate front-end web developer with a knack for crafting seamless user experiences. Currently focused on HTML, CSS, JavaScript, Bootstrap and Jquery, I love turning design concepts into responsive and visually appealing websites.
 
 💻 What I Do:
 
